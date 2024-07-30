@@ -1,3 +1,6 @@
+# Toy Store(e-commerce) FullStack-application
+An application made with React.js + Spring Boot + Tailwind CSS 
+Creating an Application with the Unified Modeling Language (UML) provided by the client
 
 # Getting Started with Create React App
 
@@ -61,16 +64,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# FullStack-application
-An example application made with React.js + Spring Boot + Tailwind CSS 
-Creating an Application with the Unified Modeling Language (UML) provided by the client
->>>>>>> 1c16bfb4f3817b1e89531d1f3a40e8bd518c571b
