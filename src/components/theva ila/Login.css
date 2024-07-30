@@ -1,0 +1,29 @@
+.login {
+  padding: 20px;
+  align-items: center;
+}
+
+.login form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login label {
+  margin-bottom: 10px;
+}
+
+.login button {
+  height: 30px;
+  width: 60px;
+}
+.username{
+  margin-left:10px;
+}
+
+.password{
+  margin-left:15px;
+}
+
+.lo{
+  margin-left: 30%;
+}
