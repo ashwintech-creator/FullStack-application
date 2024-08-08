@@ -1,4 +1,4 @@
-package com.store.config;
+package com.toystore.config;
 
 import java.util.Date;
 
@@ -28,7 +28,5 @@ public class JwtProvider {
     String email =  String.valueOf(claims.get("email"));
     return email;
   }
-
-
 
 }

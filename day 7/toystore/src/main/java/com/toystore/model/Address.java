@@ -1,4 +1,4 @@
-package com.store.model;
+package com.toystore.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

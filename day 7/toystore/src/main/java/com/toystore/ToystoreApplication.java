@@ -1,4 +1,4 @@
-package com.example.toystore;
+package com.toystore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
