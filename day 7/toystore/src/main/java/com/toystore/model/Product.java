@@ -176,6 +176,7 @@ public class Product {
   public void setCreatedAt(LocalDate createdAt) {
     this.createdAt = createdAt;
   }
+
   
   
 
